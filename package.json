@@ -1,0 +1,25 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "graphql-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yirenge/graphql-demo.git"
+  },
+  "keywords": [],
+  "author": "brainee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yirenge/graphql-demo/issues"
+  },
+  "homepage": "https://github.com/yirenge/graphql-demo#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
+}
